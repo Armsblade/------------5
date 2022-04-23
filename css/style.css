@@ -1,0 +1,77 @@
+body{
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1110px;
+  padding: 60px 60px 60px 125px;
+  background: #F4F4F4;
+  color: #222222;
+}
+
+h1,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 60px;
+  letter-spacing: -1px;
+  color: #F96241;
+}
+
+p {
+  margin-top: 30px;
+  opacity: 0.7;
+}
+
+a {
+  text-decoration: none;
+  color: #222222;
+}
+
+.Learn-More {
+  opacity: 0.3;
+}
+
+.container-flex {
+  width: 1110px;
+  display: flex;
+  justify-content: space-between;
+  background-color: blue;
+}
+
+.container-flex-1 {
+  margin-top: 92px;
+  display: flex;
+  justify-content: center;
+  background-color: blueviolet;
+}
+
+.text-flex {
+  width: 493px;
+  background-color: crimson;
+}
+
+.button-flex {
+  width: 255px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aqua;
+  margin-left: 125px;
+}
+
+.button1 {
+ background-color: rgb(19, 12, 4)
+  padding: 5px;
+}
+
+
+.subtext {
+
+}
